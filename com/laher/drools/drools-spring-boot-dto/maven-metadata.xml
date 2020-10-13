@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.laher.drools</groupId>
+  <artifactId>drools-spring-boot-dto</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201013083316</lastUpdated>
+  </versioning>
+</metadata>
